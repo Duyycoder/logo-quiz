@@ -70,3 +70,37 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+# Ignore Unity specific files and directories
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Pp]rojectSettings/
+[Aa]ssets/StreamingAssets/
+UserSettings/
+
+# Ignore JetBrains Rider project files
+.idea/
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
+# Ignore Unity specific files and directories
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Pp]rojectSettings/
+[Aa]ssets/StreamingAssets/
+UserSettings/
+
+# Ignore JetBrains Rider project files
+.idea/
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
